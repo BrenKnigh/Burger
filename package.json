@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/BrenKnigh/Burger"
+    "url": "git+https://github.com/BrenKnigh/Burger"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BrenKnigh/Burger"
+    "url": "https://github.com/BrenKnigh/Burger/issues"
   },
-  "homepage": "https://github.com/BrenKnigh/burger#readme",
+  "homepage": "https://github.com/BrenKnigh/Burger#readme",
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.3",
